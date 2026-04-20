@@ -166,10 +166,11 @@ This project shows how combining both approaches leads to more robust and user-f
 
 ## 📚 Reference
 
-Inspired by:
+This project is inspired by the following research paper:
 
-> *"Don't Panic! Better, Fewer, Syntax Errors for LR Parsers"*
-> — Diekmann & Tratt (2020)
+> **Don't Panic! Better, Fewer, Syntax Errors for LR Parsers**  
+> *Lukas Diekmann and Laurence Tratt (2020)*  
+> 🔗 https://arxiv.org/abs/1804.07133
 
 ---
 
